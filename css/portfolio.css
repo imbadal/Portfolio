@@ -1,7 +1,11 @@
 hr {
 	border-top: 4px solid #8c8b8b;
 }
-
+body{
+	background: rgb(200, 200, 195);
+	font-family: sans-serif;
+	
+}
 header {
 	height: 300px;
 	padding-top: 10px;
